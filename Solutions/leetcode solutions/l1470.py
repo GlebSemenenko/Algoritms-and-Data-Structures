@@ -7,3 +7,4 @@ class Solution:
             res.append(nums[i])
             res.append(nums[ll + i])
         return res
+
