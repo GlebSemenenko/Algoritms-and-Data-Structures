@@ -9,10 +9,6 @@ def cog_RPM(cogs):
 
 print(cog_RPM([100, 75]))
 
-
-
-
-def cv(i):
-    return i * i
-
-cv(5)
+s = "asd"
+ss = s[::-1]
+print(ss)
